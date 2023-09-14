@@ -1,2 +1,1 @@
-Hello, I am a student seeking to learn and grow in the tech environment
-
+Sou um estudante de ciência da computação que aspira novos horizontes dentro da indústria tech, sendo bastante trabalho duro e aprendizado o melhor caminho que escolhi para poder entrar neste mundo recheado de possibilidades
