@@ -1,1 +1,3 @@
-Sou um estudante de Engenharia de controle e Automação da UFSC que aspira novos horizontes dentro da indústria de tecnologia, sendo bastante trabalho duro e aprendizado o melhor caminho que escolhi para poder entrar neste mundo recheado de possibilidades
+Control & Automation Engineering @ UFSC | Java & Python Developer
+
+Building clean, test-driven backend applications and exploring software architecture. Focused on strong fundamentals, clean code, and continuous learning.
